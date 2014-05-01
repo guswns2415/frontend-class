@@ -1,4 +1,4 @@
-charset = "UTF-8"
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
  		
  var todayPhoto = [
                   {"title":"⒗ 咯按急魔隔, 谟措烹飞 夺传 广货况..綮, 厚惑辟公怕技 ","id":"20120516082207657"}
